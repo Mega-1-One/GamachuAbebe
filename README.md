@@ -35,3 +35,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mysql,git,vscode,figma&perline=6" />
 </p>
+<h1 align="center">Hi 👋, I'm Gamachu</h1>
+<h3 align="center">ECE Student • Aspiring Software Developer • Building Projects One Commit at a Time</h3>
