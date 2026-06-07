@@ -30,3 +30,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite" />
 </p>
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mysql,git,vscode,figma&perline=6" />
+</p>
